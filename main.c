@@ -36,7 +36,7 @@ do {
     scanf( "%d", &input );
     switch ( input )
  {
-        case 1:            /* Note the colon, not a semicolon */
+        case 1:            
             Add_agent();
             printf( "\n" );
             break;
